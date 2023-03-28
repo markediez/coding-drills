@@ -1,13 +1,22 @@
 # coding-drills
-This repository is meant to help my friends _drill_-in programming concepts. You will find language-specific drills here. For the best results, please create a new project per prompt. 
+This repository is meant to help my friends _drill_-in programming concepts. You will find language-specific drills here.
 
-For example, when following the javascript drills, your project directory will look like this.
+# Assumptions
+- You know how to `Fork` and `Clone` a repository
+- You know how to use `git`
+- You are using VS Code
+
+# Getting Started
+1. Fork this repository
+2. Clone your forked repository to your local machine
 ```
-coding-drills-folder/
-  prompt-1/
-    index.js
-  prompt-2/
-    index.js
-  ...
+git clone <your forked repo>
 ```
-> Repetition is the key to success.
+3. Navigate to your desired language 
+```
+cd path/to/coding-drills/<language>
+```
+4. Open with VS Code
+```
+code .
+```
