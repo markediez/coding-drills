@@ -19,7 +19,7 @@ In `mail.js`, print this picture to the screen using `console.log()`
 ## Initials ASCII Art
 In `initials.js`, print your initials using `console.log()`:
 ```
-// For the name Jorge Balderama Perez...
+// For the name Jorge Balderama Perez
 JJJJJ  BBBB   PPPP
   J    B   B  P   P
   J    B   B  P   P
