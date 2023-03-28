@@ -2,6 +2,7 @@
 This repository is meant to help my friends _drill_-in programming concepts. You will find language-specific drills here.
 
 # Assumptions
+- You are on Linux or macOS
 - You know how to `Fork` and `Clone` a repository
 - You know how to use `git`
 - You are using VS Code
