@@ -80,8 +80,9 @@ A variable type describes the _type_ of value a variable holds
 ```
 let a = 1      // the variable type is a "Number"
 let b = "foo"  // the variable type is a "String"
-let c = []     // the variable type is an "Array"
-let d = {}     // the variable type is an "Object"
+let c = true   // the variable type is a "Boolean"
+let d = []     // the variable type is an "Array"
+let e = {}     // the variable type is an "Object"
 ```
 
 The types listed above are considered "primitive" types or types that are built-in to the language. We can talk about non-primitive, or custom, types in future drills.
