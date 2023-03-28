@@ -1,5 +1,9 @@
 # Prompt 1 - ASCII Art
 
+# Overview
+You can use `console.log()` to print messages to the console. Refer to the `hello-world.js` you created during setup for an example.
+
+# Drills
 ## Mail ASCII Art
 In `mail.js`, print this picture to the screen using `console.log()`
 ```
