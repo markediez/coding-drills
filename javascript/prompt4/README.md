@@ -164,3 +164,13 @@ In `ascii.js`, create the following art using loops.
 ##
 #
 ```
+
+## ASCII Art 2
+Ub `ascii-2.js`, create the following art using loops.
+```
+ #
+   #
+#####
+   #
+ #
+```
